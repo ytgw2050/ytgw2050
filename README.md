@@ -1,6 +1,4 @@
 # 대학 특기자 실적물용 계정입니다.
-##### 원래 GitHub에 실적물을 직접 업로드하려 했으나, Craft에서 보다 상세한 설명이 가능하여 참고 자료를 별도로 작성하였습니다. 아래는 제 Craft 링크입니다.
-##### https://www.craft.do/s/0pTXcxcjJvK3Gk
 
 <!--
 **ytgw2050/ytgw2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
