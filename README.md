@@ -1,4 +1,5 @@
 # 대학 특기자 실적물용 계정입니다.
+# 전체 코드는 아래의 구글드라이브에 있습니다.
 
 <!--
 **ytgw2050/ytgw2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
