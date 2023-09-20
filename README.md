@@ -7,7 +7,7 @@
 ![image](https://github.com/ytgw2050/ytgw2050/assets/120427672/b5f03211-8ec7-48be-8c63-af86810e64c6)
 
 #### 3.Reward_Optimization_in_RL
-
+![image](https://github.com/ytgw2050/ytgw2050/assets/120427672/7acc06d5-a6ef-471e-a637-a6fcc4c049eb)
 
 
 <!--
