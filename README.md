@@ -1,4 +1,6 @@
-# 대학 특기자 실적물용 계정입니다.
+# 인간과 인공지능의 학습방식에 존재하는 근본적인 차이는 무엇인가 ?
+![Uploading image.jpeg…]()
+### 대학 특기자 실적물용 계정입니다.
 
 <!--
 **ytgw2050/ytgw2050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
